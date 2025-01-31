@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/lebog/Documents/Classification_Project_Group_5/Group_5_Classification_Project/mlruns/0/a1c8dcdff4fe44f5a81e04e8a9be4428/artifacts
+end_time: 1738298595044
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a1c8dcdff4fe44f5a81e04e8a9be4428
+run_name: unique-flea-542
+run_uuid: a1c8dcdff4fe44f5a81e04e8a9be4428
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738298556225
+status: 4
+tags: []
+user_id: lebog

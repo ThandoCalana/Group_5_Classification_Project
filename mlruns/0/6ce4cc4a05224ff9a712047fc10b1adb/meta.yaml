@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/lebog/Documents/Classification_Project_Group_5/Group_5_Classification_Project/mlruns/0/6ce4cc4a05224ff9a712047fc10b1adb/artifacts
+end_time: 1738297403106
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6ce4cc4a05224ff9a712047fc10b1adb
+run_name: smiling-toad-170
+run_uuid: 6ce4cc4a05224ff9a712047fc10b1adb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738297400333
+status: 4
+tags: []
+user_id: lebog
