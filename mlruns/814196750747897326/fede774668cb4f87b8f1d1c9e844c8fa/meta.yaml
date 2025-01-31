@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/ThandoCalana/OneDrive%20-%20Slipstream%20Consulting%20Pty%20Ltd/Documents/Classification%20Project/Group_5_Classification_Project/mlruns/814196750747897326/fede774668cb4f87b8f1d1c9e844c8fa/artifacts
+end_time: 1738319817157
+entry_point_name: ''
+experiment_id: '814196750747897326'
+lifecycle_stage: active
+run_id: fede774668cb4f87b8f1d1c9e844c8fa
+run_name: Base Model
+run_uuid: fede774668cb4f87b8f1d1c9e844c8fa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738319817101
+status: 4
+tags: []
+user_id: ThandoCalana
