@@ -1,6 +1,13 @@
+<<<<<<< HEAD
+artifact_location: file:///C:/Users/Fransisca%20Nong/Downloads/Team5_Project/Group_5_Classification_Project/mlruns/0
+creation_time: 1738356591903
+experiment_id: '0'
+last_update_time: 1738356591903
+=======
 artifact_location: file:///C:/Users/lebog/Documents/Classification_Project_Group_5/Group_5_Classification_Project/mlruns/0
 creation_time: 1738297399996
 experiment_id: '0'
 last_update_time: 1738297399996
+>>>>>>> main
 lifecycle_stage: active
 name: Default
