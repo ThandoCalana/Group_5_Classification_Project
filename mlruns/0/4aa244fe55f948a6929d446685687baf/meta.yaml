@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/lebog/Documents/Classification_Project_Group_5/Group_5_Classification_Project/mlruns/0/4aa244fe55f948a6929d446685687baf/artifacts
+end_time: 1738297472986
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4aa244fe55f948a6929d446685687baf
+run_name: angry-toad-483
+run_uuid: 4aa244fe55f948a6929d446685687baf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738297471231
+status: 4
+tags: []
+user_id: lebog

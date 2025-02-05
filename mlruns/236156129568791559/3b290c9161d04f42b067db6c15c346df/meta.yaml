@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/ThandoCalana/OneDrive%20-%20Slipstream%20Consulting%20Pty%20Ltd/Documents/Classification%20Project/Group_5_Classification_Project/mlruns/236156129568791559/3b290c9161d04f42b067db6c15c346df/artifacts
+end_time: 1738320490862
+entry_point_name: ''
+experiment_id: '236156129568791559'
+lifecycle_stage: active
+run_id: 3b290c9161d04f42b067db6c15c346df
+run_name: Tuned Model
+run_uuid: 3b290c9161d04f42b067db6c15c346df
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738320460794
+status: 3
+tags: []
+user_id: ThandoCalana

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/lebog/Documents/Classification_Project_Group_5/Group_5_Classification_Project/mlruns/0/07e88cf1ab8b4c89a2619f4a6e426286/artifacts
+end_time: 1738298233867
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 07e88cf1ab8b4c89a2619f4a6e426286
+run_name: charming-toad-255
+run_uuid: 07e88cf1ab8b4c89a2619f4a6e426286
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738298193399
+status: 4
+tags: []
+user_id: lebog
