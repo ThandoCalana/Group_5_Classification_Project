@@ -45,7 +45,10 @@ To carry out all the objectives for this repo, the following necessary dependenc
 + `Matplotlib 3.8.4` and `seaborn `
 + `sklearn.model_selection` and `nltk`
 + `scikit-learn all sklearn`
-+ `mlflow `and `pickle` 
++ `mlflow `and `pickle`
++ `scikeras`
++ `tensorflow`
++ `streamlit` 
  
 
 ## 4. Environment <a class="anchor" id="environment"></a>
